@@ -38,3 +38,23 @@ INFO: Adding tasks to the ExecutorService
 INFO: Shutdown the ExecutorService
 июл. 05, 2020 8:26:01 PM Main main
 INFO: Tasks are done
+июл. 05, 2020 9:35:44 PM Main main
+INFO: App is started
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Cutting host,port and threads count
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Parsing host and port
+июл. 05, 2020 9:35:48 PM DataParser host_range_parser
+INFO: hostParser is finished 
+июл. 05, 2020 9:35:48 PM DataParser port_range_parser
+INFO: portParser is finished 
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Shuffling the list of hosts and ports
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Creating ExecutorService
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Adding tasks to the ExecutorService
+июл. 05, 2020 9:35:48 PM Main main
+INFO: Shutdown the ExecutorService
+июл. 05, 2020 9:35:51 PM Main main
+INFO: Tasks are done

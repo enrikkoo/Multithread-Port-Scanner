@@ -27,7 +27,6 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        long start = System.currentTimeMillis();
         LOGGER.log(Level.INFO, "App is started");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -92,7 +91,6 @@ public class Main {
          */
         JSONWriter jw = new JSONWriter("src\\main\\resources\\JSON_Output", new JSONObject());
         jw.writeToJSON();
-        System.out.println(System.currentTimeMillis() - start);
     }
 }
 
