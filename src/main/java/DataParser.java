@@ -79,7 +79,6 @@ public class DataParser {
 
     /**
      * This method cuts everything associated with the hosts from input string
-     *
      * @param s - input string
      * @return Substring about hosts
      */
