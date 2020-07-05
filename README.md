@@ -1,7 +1,6 @@
-#_Multithread Port Scanner_
+# Multithread Port Scanner
 
-
-##_Задача_
+## Задача
 
 Разработать многопоточное приложение сканер TCP-портов.
 
